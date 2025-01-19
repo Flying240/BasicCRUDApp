@@ -1,0 +1,12 @@
+npm init -y
+
+npm i express
+npm i nodemon
+npm i mongoose
+npm i dotenv
+npm i cors
+
+1)server file
+2)routes
+3)routeHandler
+4)DatabseModel
